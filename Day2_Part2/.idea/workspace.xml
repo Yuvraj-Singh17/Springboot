@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4691b7d-1b03-46e6-9a91-4eaa5ebe5289" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Day2_Part2/StudentModel/StudentModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Day2_Part2/Day2Part2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Day2_Part2/Day2Part2Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Day2_Part2/controller/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Day2_Part2/controller/Home.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Day2_Part2/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Day2_Part2/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Day2_Part2/model/StudentModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/Day2_Part2/Day2Part2ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/Day2_Part2/controller/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/Day2_Part2/controller/Home.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +37,7 @@
   "keyToString": {
     "Application.Day2Part2Application.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Lenovo/OneDrive/Desktop/SpringBoot/Springboot_"
   }
