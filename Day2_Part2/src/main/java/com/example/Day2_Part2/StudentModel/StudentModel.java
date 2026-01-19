@@ -1,14 +1,14 @@
-package com.example.Day2_Part2.model;
+package com.example.Day2_Part2.StudentModel;
 
 public class StudentModel {
     private int id;
     private String name;
     private String email;
 
-    public StudentModel(int id , String email , String name){
+    public StudentModel(int id , String name , String email){
         this.id = id;
-        this.email = email;
         this.name = name;
+        this.email = email;
     }
 
     public int getId() {
